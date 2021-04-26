@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=diygod&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true" alt="DIYgod's github stats"/>
 
-A lovely web developer based in China, currently working on web video player at bilibili.
+A lovely web developer based in China, currently working on Air Protocol at Natural Selection Labs.
 
 - Read more about my [Blog](https://diygod.me/)
 - Talk with me by [Email](mailto:diydgod@gmail.com) or [Telegram](https://t.me/DIYgod)
