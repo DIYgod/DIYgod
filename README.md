@@ -1,6 +1,6 @@
 ### Hi I'm DIYgod 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=diygod&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs,prs&include_all_commits=true&count_private=true" alt="DIYgod's github stats"/>
+<img style="max-width: 450px" align="right" src="https://github-readme-stats.vercel.app/api?username=diygod&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs,prs&include_all_commits=true&count_private=true" alt="DIYgod's github stats"/>
 
 A lovely web developer based in UK, currently working on [RSS3](https://github.com/NaturalSelectionLabs/RSS3) at [Natural Selection Labs](https://github.com/NaturalSelectionLabs).
 
