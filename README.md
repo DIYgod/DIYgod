@@ -10,9 +10,6 @@ A lovely web developer based in Scotland, cofounder & dev of xLog, Crossbell, RS
 - Talk with me by [Email](mailto:i@diygod.me) or [Telegram](https://t.me/DIYgod)
 - Follow me on [Twitter](https://twitter.com/DIYgod) [bilibili](https://space.bilibili.com/2267573) or [Telegram channel](https://t.me/awesomeDIYgod)
 
-<div align="right">
-
 ![](https://streak-stats.demolab.com/?user=DIYgod)
 
 ![](https://raw.githubusercontent.com/DIYgod/DIYgod/main/assets/github-contribution-grid-snake.svg)
-</div>
