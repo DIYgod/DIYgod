@@ -25,4 +25,6 @@ jobs:
         uses: EndBug/add-and-commit@v7.2.1
         with:
           branch: main
+          author_name: DIYgod-bot
+          author_email: bot@diygod.me
           message: 'Generate Contribution Snake' 
