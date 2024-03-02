@@ -12,4 +12,10 @@ Co-founder of Crossbell and RSS3.
 - Talk with me by [Email](mailto:i@diygod.me) or [Telegram](https://t.me/prpr233)
 - Follow me on [Twitter](https://twitter.com/DIYgod) [bilibili](https://space.bilibili.com/2267573) or [Telegram channel](https://t.me/awesomeDIYgod)
 
-![](https://raw.githubusercontent.com/DIYgod/DIYgod/main/assets/github-contribution-grid-snake.svg)
+Open source is a very expensive thing. My open source journey would not be possible without the help of these individuals and organizations.
+
+<p align="center">
+  <a href="https://github.com/sponsors/sxzz">
+    <img src="https://raw.githubusercontent.com/DIYgod/sponsors/main/sponsors.wide.svg" />
+  </a>
+</p>
