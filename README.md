@@ -19,7 +19,7 @@ Co-founder of RSS3.
 
 - Read my [Blog](https://diygod.cc/) to learn more about me
 - Talk with me by [Email](mailto:i@diygod.me) or [Telegram](https://t.me/prpr233)
-- Follow me on [Twitter](https://twitter.com/DIYgod) [bilibili](https://space.bilibili.com/2267573) or [Telegram channel](https://t.me/awesomeDIYgod)
+- Follow me on [Twitter](https://twitter.com/DIYdoge) [bilibili](https://space.bilibili.com/2267573) or [Telegram channel](https://t.me/awesomeDIYgod)
 
 Open source is a very expensive thing. My open source journey would not be possible without the help of these individuals and organizations.
 
