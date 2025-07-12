@@ -12,8 +12,7 @@
 </picture>
 
 A lovely web developer based in Singapore.
-Developer of Follow, RSSHub, xLog and DPlayer.
-Co-founder of RSS3.
+Founder and Developer of Folo, RSSHub, xLog and DPlayer.
 
 写代码是热爱，写到世界充满爱！
 
